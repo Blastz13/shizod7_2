@@ -1,0 +1,3 @@
+/Users/blast/CLionProjects/hoffman/cmake-build-debug/CMakeFiles/hoffman.dir
+/Users/blast/CLionProjects/hoffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/blast/CLionProjects/hoffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
